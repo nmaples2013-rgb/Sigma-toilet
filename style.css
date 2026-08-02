@@ -1,0 +1,18 @@
+body{background: linear-gradient(darkblue 40%, darkred 70%); 
+    text-align: center;  font-family: "Jim Nightshade", cursive;
+  font-weight: 400;
+  font-style: normal;}
+
+.menu{list-style: none; color: pink; background-color: blanchedalmond}
+
+li{display: inline;
+padding-left: 25px;
+padding-right: 25px;}
+
+a{text-decoration: none;}
+a:hover{
+    font-size:25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #cb24a3;
+    
+}
